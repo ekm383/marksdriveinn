@@ -1,0 +1,15 @@
+[
+  {
+    "restaurant-name": "Mark's Drive Inn",
+    "intro": "Aiea's best Local plate lunches! Large portions at a great price. Located in the Stadium Mall shopping center.",
+    "copyright": "Copyright 2020 Mark's Drive Inn",
+    "logo": "../images/icon.png",
+    "hours": ["Daily 10:00am - 9:00pm"],
+    "phone": "(808) 488-6796",
+    "street": "4510 Salt Lake Blvd",
+    "city": "Honolulu, HI 96818",
+    "facebook": "https://www.facebook.com/pages/category/Fast-Food-Restaurant/Marks-Drive-Inn-117282281623889/",
+    "instagram": "https://www.yelp.com/biz/marks-drive-inn-honolulu",
+    "menu": ""
+  }
+]
