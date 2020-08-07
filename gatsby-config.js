@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Sushiya`,
-    description: `We serve the best Sushi and Poke in Honolulu. Available for takeout, dine-in, or delivery. Sushiya is conveniently located in the heart of Kaimuki with plenty of free parking.`,
-    author: `@sushiya`,
+    title: `Mark's Drive Inn`,
+    description: `Aiea's best Local plate lunches! Large portions at a great price. Located in the Stadium Mall shopping center.`,
+    author: `@marksdriveinn`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
